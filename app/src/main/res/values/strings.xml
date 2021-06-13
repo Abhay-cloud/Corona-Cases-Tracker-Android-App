@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Corona Tracker</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/rubikbold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/rubiklight</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/rubikregular</string>
+</resources>

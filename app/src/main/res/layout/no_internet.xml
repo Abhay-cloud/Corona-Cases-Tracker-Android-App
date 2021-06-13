@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:src="@drawable/ic_baseline_signal_wifi_off_24"
+    />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NO INTERNET"
+        android:layout_marginTop="10dp"
+        android:textSize="@dimen/title_size"
+        android:fontFamily="@font/rubikbold"
+        android:textColor="@color/red_pie"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Turn on your internet connection"
+        android:textSize="@dimen/title_size"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/rubikbold"
+        android:textColor="@color/black"/>
+
+</LinearLayout>
