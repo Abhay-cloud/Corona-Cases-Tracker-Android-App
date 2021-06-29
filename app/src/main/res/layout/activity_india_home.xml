@@ -215,7 +215,7 @@
                                 android:layout_height="wrap_content"
                                 android:textSize="@dimen/title_size2"
                                 android:textColor="@color/white"
-                                android:text="0"
+                                android:text="Fetching..."
                                 android:fontFamily="@font/rubikbold"
                                 android:layout_marginTop="7dp"/>
 
@@ -269,7 +269,7 @@
                                 android:layout_height="wrap_content"
                                 android:textSize="@dimen/title_size2"
                                 android:textColor="@color/white"
-                                android:text="0"
+                                android:text="Fetching..."
                                 android:fontFamily="@font/rubikbold"
                                 android:layout_marginTop="7dp"/>
 
@@ -324,7 +324,7 @@
                                 android:layout_height="wrap_content"
                                 android:textSize="@dimen/title_size2"
                                 android:textColor="@color/white"
-                                android:text="0"
+                                android:text="Fetching..."
                                 android:fontFamily="@font/rubikbold"
                                 android:layout_marginTop="7dp"/>
 
