@@ -123,7 +123,7 @@ public class MainActivity extends AppCompatActivity implements ConnectionReceive
        indiaStats.setOnClickListener(new View.OnClickListener() {
            @Override
            public void onClick(View v) {
-               Intent intent = new Intent(MainActivity.this, indiaHome.class);
+               Intent intent = new Intent(MainActivity.this, CountryList.class);
                startActivity(intent);
                finish();
            }

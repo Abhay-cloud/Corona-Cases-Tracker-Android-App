@@ -12,6 +12,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CoronaTracker">
+        <activity android:name=".CountryList"></activity>
         <activity android:name=".SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,8 +24,7 @@
         <activity android:name=".indiaHome" />
         <activity android:name=".india" />
         <activity android:name=".CovidActivity" />
-        <activity android:name=".MainActivity"/>
-
+        <activity android:name=".MainActivity" />
 
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
